@@ -1,12 +1,3 @@
-<div align="center">
-  <img src="https://github.com/fernandohos/fasthome/blob/main/.github/fasthome-banner.png" alt="fasthome banner" />
-</div>
-
-  ***
-
-<h3 align="center">Original Design by: <a href="https://www.figma.com/@erenvdmr">Eren Demir</a></h3>
-
-  ***
 
 <div display="flex" align="center">
   
@@ -24,12 +15,6 @@
   
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel badge" />
 
-  ##
-  <a href="https://fasthome.vercel.app">
-    <img src="https://therealsujitk-vercel-badge.vercel.app/?app=fasthome&style=for-the-badge" alt="deployment vercel status" />
-    <br />
-    Demo on Vercel
-  </a>
   
 </div>
 
